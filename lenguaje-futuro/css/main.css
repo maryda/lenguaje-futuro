@@ -1,0 +1,45 @@
+header{
+	background-image:url(../img/grupal.jpg);/*imagen de fondo*/
+	height: 800px;
+	background-size: 100%;
+    background-repeat: no-repeat;
+    	;
+}
+
+ .logo{
+ 	width: 347px;
+    padding-top: 30px;
+
+
+
+ }
+
+
+li{
+	display: table-cell;
+	padding: 15px;
+}
+
+
+a{
+	color: black;
+	text-decoration: none;
+
+}
+	
+	
+.imagenes img{ 
+	max-width: 100%; /*ocupa el 100% de la columna*/
+    
+
+
+}
+
+footer{
+
+	background-color: #585858;
+	height: 54px;
+	color:#FFFFFF;
+	padding:20px;
+}
+
