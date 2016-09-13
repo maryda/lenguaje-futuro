@@ -7,23 +7,56 @@ header{
 }
 
  .logo{
- 	width: 347px;
-    padding-top: 30px;
+ 	width: 393px;
+    padding-top: 90px;
+    position: absolute;
+    left: 455px;
 
 
 
  }
 
+ .button{
+
+ 	height: 38px;
+ 	width: 100px;
+ 	text-align: center;
+ 	background-color: #FFA500;
+ 	border-radius: 5px; /*redondar puntas*/
+ 	position: absolute;
+ 	top: 31px;
+ 	left: 78px;
+
+ }
+
+ 
+        
+
+
+ .button:hover { 
+    background-color: #FFFF00;
+}
+
 
 li{
 	display: table-cell;
-	padding: 15px;
+	padding: 38px;
+	padding-top: 22px;
+	text-decoration: none;
+	border-top: 10px;
+	position: relative;
+    top: 8px;
+    left: 238px;
+
+
 }
 
 
 a{
+	text-align: center;
 	color: black;
 	text-decoration: none;
+
 
 }
 	

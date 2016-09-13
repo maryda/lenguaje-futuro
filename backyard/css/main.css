@@ -1,0 +1,60 @@
+
+.logo{
+	margin-top: 20px;
+}
+
+
+.gris-grande{
+	background-color: #585858;
+	height: 404px;
+
+}
+
+.titulo{
+	font-size: 40px;
+	color:#FFFFFF;
+	
+}
+
+
+li{
+	display: table-cell;
+}
+
+li a{
+	text-decoration: none;
+	color:#2E2E2E;
+	margin-left: 50px;;
+
+}
+
+ul{
+	margin-top: 20px;
+}
+
+.parrafo{
+	color: #FFFFFF;
+	position: relative;
+	top: 79px;
+
+}
+
+.gris-pequeño{
+	background-color: #848484;
+	width: 335px;
+    height: 264px;
+    position: relative;
+    left: 754px;
+    bottom: 356px;
+}
+
+
+
+@media(min-width: 320px) and (max-width: 535px){
+	.logo{
+		width: 50%;
+	}
+
+
+
+

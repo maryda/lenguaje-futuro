@@ -1,0 +1,83 @@
+
+.imagen{
+	position: relative;
+    left: -255px;
+    top: -8px;
+}
+
+
+
+ul{
+	margin-left: 334px;
+}
+
+li{
+	display: table-cell;
+	padding: 38px;
+}
+
+a{
+	text-align: center;
+    color: black;
+    text-decoration: none;
+    position: bottom;
+    position: relative;
+    bottom: 1003px;
+    left: 586px;
+	
+}
+
+h1{
+	position: absolute;
+    right: 229px;
+    bottom: 651px;
+    font-size: 50px;
+
+}
+
+.parrafo{
+	position: absolute;
+    right: 317px;
+    bottom: 612px;
+    font-size: 20px;
+
+}
+
+.fondo-gris{
+	background: #F2F2F2;
+    width: 1350px;
+    height: 444px;
+    position: relative;
+    bottom: 239px;
+    left: -9px;
+    border: 1px solid black;
+}
+
+
+.diseño img{
+
+	width: 461px;
+    height: 331px;
+    position: relative;
+    left: 55px;
+    bottom: 609px;
+
+}
+
+.p-diseño{
+
+font-size: 90px;
+    position: relative;
+    left: 883px;
+    bottom: 997px;
+}
+
+
+
+.foto{
+	height: 200px;
+    width: 30px;
+   
+
+
+}
